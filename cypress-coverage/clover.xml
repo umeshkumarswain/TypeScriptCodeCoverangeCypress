@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1625513238973" clover="3.2.0">
+  <project timestamp="1625513238973" name="All files">
+    <metrics statements="15" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3" elements="18" coveredelements="18" complexity="0" loc="15" ncloc="15" packages="6" files="9" classes="9"/>
+    <package name="typescript">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="webpack.config.js" path="C:/Users/z0043ryv/Downloads/TypeScriptTodo-master/typescript/webpack.config.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="typescript.cypress.integration.1-getting-started">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="todo.spec.ts" path="C:/Users/z0043ryv/Downloads/TypeScriptTodo-master/typescript/cypress/integration/1-getting-started/todo.spec.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="typescript.cypress.plugins">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="cy-ts-preprocessor.js" path="C:/Users/z0043ryv/Downloads/TypeScriptTodo-master/typescript/cypress/plugins/cy-ts-preprocessor.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="index.js" path="C:/Users/z0043ryv/Downloads/TypeScriptTodo-master/typescript/cypress/plugins/index.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="typescript.cypress.support">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="commands.js" path="C:/Users/z0043ryv/Downloads/TypeScriptTodo-master/typescript/cypress/support/commands.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="index.js" path="C:/Users/z0043ryv/Downloads/TypeScriptTodo-master/typescript/cypress/support/index.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="typescript.public">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="bundle.js" path="C:/Users/z0043ryv/Downloads/TypeScriptTodo-master/typescript/public/bundle.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="typescript.src">
+      <metrics statements="15" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="forms.ts" path="C:\Users\z0043ryv\Downloads\TypeScriptTodo-master\typescript\src\forms.ts">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="index.ts" path="C:\Users\z0043ryv\Downloads\TypeScriptTodo-master\typescript\src\index.ts">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
